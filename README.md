@@ -12,7 +12,7 @@
 
 ### 🔽 Cloning the repository
 ```bash
-$ git clone <https://github.com/victorsantos895/doomfire.git>
+$ git clone https://github.com/victorsantos895/doomfire.git
 ```
 
 ### 🖥️ Start the application
